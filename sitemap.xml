@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://madman.com/about/index.html</loc>
+    <loc>http://madman.top/about/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://madman.com/tags/index.html</loc>
+    <loc>http://madman.top/tags/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://madman.com/categories/index.html</loc>
+    <loc>http://madman.top/categories/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://madman.com/2022/06/05/hello-world/</loc>
+    <loc>http://madman.top/2022/06/05/hello-world/</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -39,23 +39,23 @@
   
 
   <url>
-    <loc>http://madman.com/</loc>
-    <lastmod>2022-07-13</lastmod>
+    <loc>http://madman.top/</loc>
+    <lastmod>2022-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://madman.com/tags/Hello/</loc>
-    <lastmod>2022-07-13</lastmod>
+    <loc>http://madman.top/tags/Hello/</loc>
+    <lastmod>2022-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://madman.com/tags/World/</loc>
-    <lastmod>2022-07-13</lastmod>
+    <loc>http://madman.top/tags/World/</loc>
+    <lastmod>2022-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -63,15 +63,15 @@
 
   
   <url>
-    <loc>http://madman.com/categories/Hello/</loc>
-    <lastmod>2022-07-13</lastmod>
+    <loc>http://madman.top/categories/Hello/</loc>
+    <lastmod>2022-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://madman.com/categories/Hello/World/</loc>
-    <lastmod>2022-07-13</lastmod>
+    <loc>http://madman.top/categories/Hello/World/</loc>
+    <lastmod>2022-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
