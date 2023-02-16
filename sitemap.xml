@@ -40,7 +40,7 @@
 
   <url>
     <loc>http://madman.top/</loc>
-    <lastmod>2022-12-16</lastmod>
+    <lastmod>2023-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,14 +48,14 @@
   
   <url>
     <loc>http://madman.top/tags/Hello/</loc>
-    <lastmod>2022-12-16</lastmod>
+    <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://madman.top/tags/World/</loc>
-    <lastmod>2022-12-16</lastmod>
+    <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -64,14 +64,14 @@
   
   <url>
     <loc>http://madman.top/categories/Hello/</loc>
-    <lastmod>2022-12-16</lastmod>
+    <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://madman.top/categories/Hello/World/</loc>
-    <lastmod>2022-12-16</lastmod>
+    <lastmod>2023-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
